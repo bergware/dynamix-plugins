@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.temp.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix System Temp</Name>
+<Description>
+shows in real-time the temperature of the system CPU and motherboard. Temperatures can be displayed in Celsius or Fahrenheit. Your hardware must support the necessary probes, and additional software drivers may be required too. This plugin requires PERL, this package needs to be installed separately.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.system.temp.png</Icon>
+</Containers>

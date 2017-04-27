@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.schedules.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix Schedules</Name>
+<Description>
+is a front-end utility for the built-in hourly, daily, weekly and monthly schedules. It allows the user to alter the schedule execution times using the GUI.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.schedules.png</Icon>
+</Containers>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix Cache Dirs</Name>
+<Description>
+Keeps folder information in memory to prevent unnecessary disk spin up. Dynamix builds a GUI front-end to allow entering of parameters for the cache_dirs script which is running in the background.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.cache.dirs.png</Icon>
+</Containers>

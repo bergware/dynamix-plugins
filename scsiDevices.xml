@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.scsi.devices.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<MinVer>6.2.0rc4</MinVer>
+<Category>Tools:System</Category>
+<Name>Dynamix SCSI Devices</Name>
+<Description>
+updates the udev persistent storage devices rules file (courtesy of BubbaQ), which allows proper naming of SCSI attached disks.
+*Please by aware that after installation of this plugin, it might be necessary to re-assign disks due to their changed names!*
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.scsi.devices.png</Icon>
+</Containers>

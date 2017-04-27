@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix System Stats</Name>
+<Description>
+shows in real-time the disk utilizations and critical system recources, such CPU usage, memory usage, interface bandwidth and disk I/O bandwidth.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.system.stats.png</Icon>
+</Containers>

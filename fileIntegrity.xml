@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix File Integrity</Name>
+<Description>
+Real-time hashing and verification of files stored on the data disks of the array. This plugin reports on failed file content integrity and detects silent file corruption (aka bit-rot).
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=44989.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.file.integrity.png</Icon>
+</Containers>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.date.time.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<MinVer>6.2.0rc4</MinVer>
+<Category>Tools:System</Category>
+<Name>Dynamix Date Time</Name>
+<Description>
+adds an interactive world map to the date and time settings. This allows the user to simply click on his/her country and select the corresponding time zone.
+In addition the world map highlights the countries in the currently selected time zone.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.date.time.png</Icon>
+</Containers>
