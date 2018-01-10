@@ -4,6 +4,7 @@
 <PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.stop.shell.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.4.0_rc19</MinVer>
 <Category>Tools:System</Category>
 <Name>Dynamix Stop Shell</Name>
 <Description>
