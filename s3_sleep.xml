@@ -7,7 +7,7 @@
 <Category>Tools:System</Category>
 <Name>Dynamix S3 Sleep</Name>
 <Description>
-Shows in readefines the conditions under which the system will go to S3 sleep mode. It also adds an unconditional 'sleep' button on the Array Operation page.l-time any open SMB and AFP network streams. This allows instant view of who is accessing the server - either by IP address or name - and see what content is opened. Optionally streams can be stopped from the GUI.
+Shows in readefines the conditions under which the system will go to S3 sleep mode. It also adds an unconditional 'sleep' button on the Array Operation page.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.s3.sleep.png</Icon>
