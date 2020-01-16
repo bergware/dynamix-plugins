@@ -4,7 +4,7 @@
 <PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
-<Category>Tools:System</Category>
+<Category>Tools:System Network:VPN</Category>
 <Name>Dynamix WireGuard</Name>
 <Description>
 This package contains GUI support for WireGuard. WireGuard allows to set up VPN tunnels for various requirements, such as remote server access or Internet over VPN.
