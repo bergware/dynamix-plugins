@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.patch.2020.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<MinVer>6.6.0</MinVer>
+<MaxVer>6.7.2</MaxVer>
+<Category>Tools:System</Category>
+<Name>Dynamix Patch 2020</Name>
+<Description>
+Patches the *template.php* file to address reported vulnerabilities in Unraid 6.6 and 6.7 versions.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.patch.2020.png</Icon>
+</Containers>
