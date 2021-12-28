@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix File Manager</Name>
+<Description>
+This is a plugin to add a simple file management functionality to the file browser feature of the Unraid GUI.
+It is the intention to make this an integrated GUI feature in the future.
+
+Users can *Delete*, *Rename*, *Copy* and *Move* folders and files from the GUI. These actions can be applied to a single source or multiple sources at once.
+
+Use with care! The file management feature is a powerful utility and gives the user full control over his file system.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=44989.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.file.manager.png</Icon>
+</Containers>
