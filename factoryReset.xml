@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.factory.reset.plg</PluginURL>
+<PluginAuthor>Bergware</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Dynamix Factory Reset</Name>
+<Description>
+This plugin allows the user to reset the system to default settings. Optional array and pool assignments can be preserved.
+After the factory reset the system acts as a new installation, which starts with setting the login credentals.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
+<Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.factory.reset.png</Icon>
+</Containers>
