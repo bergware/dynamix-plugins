@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.manager.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -18,3 +18,4 @@ Use with care! The file management feature is a powerful utility and gives the u
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.file.manager.png</Icon>
 <Screenshot>https://github.com/bergware/dynamix-plugins/raw/master/file-mananger-screenshot.jpg</Screenshot>
 </Containers>
+
