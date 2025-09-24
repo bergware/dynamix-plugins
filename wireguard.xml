@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System Network:VPN</Category>
@@ -12,3 +12,4 @@ This package contains GUI support for WireGuard. WireGuard allows to set up VPN 
 <Support>https://forums.unraid.net/topic/84229-dynamix-wireguard-vpn/?tab=comments#comment-780291</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.wireguard.png</Icon>
 </Containers>
+
