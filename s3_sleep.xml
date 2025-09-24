@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -12,3 +12,4 @@ Shows in readefines the conditions under which the system will go to S3 sleep mo
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.s3.sleep.png</Icon>
 </Containers>
+

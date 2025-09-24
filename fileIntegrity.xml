@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -12,3 +12,4 @@ Real-time hashing and verification of files stored on the data disks of the arra
 <Support>http://lime-technology.com/forum/index.php?topic=44989.0</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.file.integrity.png</Icon>
 </Containers>
+

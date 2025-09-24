@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <MinVer>6.4.0</MinVer>
@@ -13,3 +13,4 @@ shows in real-time the disk utilizations and critical system recources, such CPU
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.system.stats.png</Icon>
 </Containers>
+

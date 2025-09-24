@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.day.night.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.day.night.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -12,3 +12,4 @@ Automatically toggles between a day theme and a night theme. Based on the sunris
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
 <Icon>https://raw.githubusercontent.com/bergware/dynamix-plugins/master/dynamix.day.night.png</Icon>
 </Containers>
+
